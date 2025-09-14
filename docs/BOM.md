@@ -11,6 +11,7 @@ This BOM lists the electronic and mechanical components used to assemble the Vol
 | D24V5F5 Voltage Regulator | 1    | Pololu              | 5V Regulator for ESP32         |
 | Ornament Ball         | 1        | Amazon              | Used as Voltorb body           |
 | 2S LiPo Batteries     | 2        | Amazon              | Power source of joystick and Voltorb |
+| LiPo Buzzer Alarm     | 2        | Amazon              | Monitors remaining LiPo Voltage |
 | Deans Connector T Plug  | 2      | Amazon              | Connects battery power to components |
 | 470 uF Capacitor      | 1        | Digikey             | Bulk decoupling capacitor      |
 | 47 uF Capacitor       | 2        | Digikey             | Decoupling capacitor for noise suppression      |
@@ -22,3 +23,4 @@ This BOM lists the electronic and mechanical components used to assemble the Vol
 | 32x7mm Wheels         | 2        | Pololu              | Drives movement                |
 | 40x7mm Wheels         | 2        | Pololu              | Alternative test wheels        |
 | Wires, boards, etc.   | NA       | —                   | For wiring and testing         |
+
