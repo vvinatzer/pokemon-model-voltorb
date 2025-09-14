@@ -19,4 +19,6 @@ This BOM lists the electronic and mechanical components used to assemble the Vol
 | Project Box           | 1        | Digikey             | Chassis/Wheel base             |
 | L Brackets            | 2        | Amazon              | Connects motor mounts to chassis |
 | Motor Mounts          | 2        | Amazon              | Connects to L brackets         |
-| Wires, boards, etc.   | NA       | —                   | For wiring and testing           |
+| 32x7mm Wheels         | 2        | Pololu              | Drives movement                |
+| 40x7mm Wheels         | 2        | Pololu              | Alternative test wheels        |
+| Wires, boards, etc.   | NA       | —                   | For wiring and testing         |
