@@ -48,9 +48,13 @@ Additional photos can be found in [images/](images/).
 - Wiring for the 'internals' (The connections between the motor controller, ESP32, Voltage Regulators) is a mess.  I should not have made the decision to leave one million wires floating and instead just used a breadboard for prototyping.  I was hoping to compress it into the chassis, but I see that this isn't viable.
 
 ## Next Steps
-- Rewire internals on breadboard for stability
-- Build or purchase a larger chassis
-- Test basic motor control and rolling
-- Restructure firmware for modularity
-- Implement new features (LED lighting, explosion sound)
+- Stabilize prototype:
+  - Rewire internals on breadboard for reliability
+  - Build or purchase a larger chassis
+- Validate functionality:
+  - Test motor control and rolling
+- Extend features:
+  - Refactor firmware for modularity
+  - Add LED lighting and explosion sound effect
+
 
